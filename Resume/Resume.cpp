@@ -34,9 +34,6 @@ int main()
             std::cout << Certifications;
             std::cout << "\n";
         }
-        else {
-            std::cout << "Invalid response. Try again.\n";
-        }
         x++;
         
     }
